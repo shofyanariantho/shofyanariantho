@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shofyanariantho
-- 👀 I’m interested in frontend developer
+- 👀 I’m interested in Wordpress and Web Development 
 - 🌱 I’m currently learning Wordpress Development and Web Development
 - 💞️ I’m looking to collaborate on Learn Code
 - 📫 Reach me https://shofyan.my.id/
