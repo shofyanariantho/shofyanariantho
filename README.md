@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shofyanariantho
-- 👀 I’m interested in Wordpress and Web Development 
-- 🌱 I’m currently learning Wordpress Development and Web Development
+- 👀 I’m interested in Laravel and ReactJs Development 
+- 🌱 I’m currently learning ReactJs and NodeJs
 - 💞️ I’m looking to collaborate on Learn Code
 - 📫 Reach me https://shofyan.my.id/
 
